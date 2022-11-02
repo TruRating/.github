@@ -1,5 +1,8 @@
 # Description
-<!-- Include relevant motivation and context -->
+<!--
+Include relevant motivation and context
+Please make sure you include the JIRA issue in the PR Title
+-->
 
 ## Type of change
 <!--
