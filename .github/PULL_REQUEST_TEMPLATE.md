@@ -23,15 +23,15 @@ Change [ ] to [X] to leave a check-mark
 -->
 
 - [ ] Local unit tests
-- [ ] Local integration tests
-- [ ] Environment system tests
+- [ ] Local integration tests (i.e. Component Tests) 
+- [ ] Environment system tests (i.e. Integration Tests) 
 - [ ] Tested in production
 
 <!--
 ## Checklist
 
 - [ ] JIRA Issue(s) ID in PR title and commits
-- [ ] I have rebased my changes onto the head of the target branch before opening this PR
+- [ ] I have resolved any merge conflicts with the head of the target branch before opening this PR
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
